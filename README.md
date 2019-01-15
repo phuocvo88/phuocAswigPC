@@ -1,2 +1,2 @@
-# phuocAswigPC
-repository at Aswig PC
+# phuocFramewokr
+Practice to build selenium framework
